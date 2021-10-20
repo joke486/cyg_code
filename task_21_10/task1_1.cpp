@@ -51,4 +51,3 @@ int main()
     system("pause");                    //ÔÝÍ£¿´½á¹û
     return 0;
 }
-
